@@ -1,0 +1,27 @@
+.row {
+    display: table-row;
+    border-collapse: collapse;
+}
+
+.cell {
+    display: table-cell;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#main {
+    margin: 0 auto;
+    display: table;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.cell_white {
+    background-color: white;
+}
+
+.cell_black {
+    background-color: black;
+}
