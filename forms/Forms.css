@@ -1,0 +1,39 @@
+body {
+    background-image: url("pizza_bg.jpg");
+    font-size: 20px;
+}
+
+table {
+    background-color: ivory;
+    border-collapse: collapse;
+}
+
+td {
+    width: 200px;
+    height: 50px;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px;
+}
+
+table.centre {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td.big {
+    width: 70%;
+}
+
+input.left {
+    text-align: left;
+    font-size: 20px;
+
+}
+.bigger{
+    font-size: 18px;
+}
+
+th{
+    font-size: 28px;
+}
